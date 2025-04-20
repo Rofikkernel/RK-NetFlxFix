@@ -26,6 +26,7 @@ fi
     copyprop ro.product.device ro.vendor.product.device
     copyprop ro.product.system.device ro.product.vendor.device
     copyprop ro.product.device ro.product.vendor.device
+    setprop ro.netflix.bsp_rev Q8250-19134-1
     copyprop ro.product.system.name ro.vendor.product.name
     copyprop ro.product.name ro.vendor.product.name
     copyprop ro.product.system.name ro.product.vendor.name
